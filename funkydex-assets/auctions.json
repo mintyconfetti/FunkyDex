@@ -1,0 +1,14 @@
+[
+    {
+        "seller_id": "1154506207122444339",
+        "price": 1000,
+        "card": {
+            "name": "Girlfriend (W.I)",
+            "rarity": "Legendary",
+            "power": 941,
+            "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_girlfriendwi.png"
+        },
+        "auction_id": "6e4a1b17-1481-4112-ab21-060680c8655f",
+        "timestamp": 1748032594.754594
+    }
+]

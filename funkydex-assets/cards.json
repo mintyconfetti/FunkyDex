@@ -1,0 +1,986 @@
+[
+    {
+        "name": "pp tree xd",
+        "rarity": "Unobtainable",
+        "power": 69420,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/image.png"
+    },
+    {
+        "name": "Boyfriend",
+        "rarity": "Common",
+        "power": 107,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_boyfriend.png"
+    },
+    {
+        "name": "Girlfriend",
+        "rarity": "Uncommon",
+        "power": 211,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_girlfriend.png"
+    },
+    {
+        "name": "Pico",
+        "rarity": "Uncommon",
+        "power": 329,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_pico.png"
+    },
+    {
+        "name": "Skid & Pump",
+        "rarity": "Common",
+        "power": 174,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sp.png"
+    },
+    {
+        "name": "Daddy Dearest",
+        "rarity": "Rare",
+        "power": 425,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_dd.png"
+    },
+    {
+        "name": "Mommy Must Murder",
+        "rarity": "Rare",
+        "power": 409,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mm.png"
+    },
+    {
+        "name": "Senpai",
+        "rarity": "Rare",
+        "power": 483,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_senpai.png"
+    },
+    {
+        "name": "Spirit",
+        "rarity": "Epic",
+        "power": 775,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_spirit.png"
+    },
+    {
+        "name": "Tankman",
+        "rarity": "Rare",
+        "power": 504,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_tankman.png"
+    },
+    {
+        "name": "Monster/Lemon Demon",
+        "rarity": "Epic",
+        "power": 682,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_monster.png"
+    },
+    {
+        "name": "Nene",
+        "rarity": "Rare",
+        "power": 483,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_nene.png"
+    },
+    {
+        "name": "Darnell",
+        "rarity": "Rare",
+        "power": 520,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_darnell.png"
+    },
+    {
+        "name": "Otis",
+        "rarity": "Rare",
+        "power": 488,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_otis.png"
+    },
+    {
+        "name": "Diagoras (Phase 1)",
+        "rarity": "Rare",
+        "power": 438,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_diagorasp1.png"
+    },
+    {
+        "name": "Diagoras (Phase 2)",
+        "rarity": "Epic",
+        "power": 793,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_diagorasp2.png"
+    },
+    {
+        "name": "Diagoras (Phase 3)",
+        "rarity": "Legendary",
+        "power": 897,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_diagorasp3.png"
+    },
+    {
+        "name": "Soul Luigi",
+        "rarity": "Rare",
+        "power": 417,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_soulluigi.png"
+    },
+    {
+        "name": "Soul Yoshi",
+        "rarity": "Rare",
+        "power": 467,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_soulyoshi.png"
+    },
+    {
+        "name": "Soul Bowser",
+        "rarity": "Rare",
+        "power": 554,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_soulbowser.png"
+    },
+    {
+        "name": "Yoshioka",
+        "rarity": "Epic",
+        "power": 756,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_yoshioka.png"
+    },
+    {
+        "name": "SFC",
+        "rarity": "Epic",
+        "power": 724,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sfc.png"
+    },
+    {
+        "name": "SFC (Phase 2)",
+        "rarity": "Legendary",
+        "power": 980,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sfcp2.png"
+    },
+    {
+        "name": "Horror Mario",
+        "rarity": "Epic",
+        "power": 739,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_horrormario.png"
+    },
+    {
+        "name": "John Dick",
+        "rarity": "Epic",
+        "power": 785,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_johndick.png"
+    },
+    {
+        "name": "Horror Peach",
+        "rarity": "Epic",
+        "power": 704,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_horrorpeach.png"
+    },
+    {
+        "name": "Yoshi.EXE",
+        "rarity": "Epic",
+        "power": 699,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_yoshiexe.png"
+    },
+    {
+        "name": "Grandad",
+        "rarity": "Rare",
+        "power": 592,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_grandad.png"
+    },
+    {
+        "name": "Beta Luigi",
+        "rarity": "Uncommon",
+        "power": 342,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_betaluigi.png"
+    },
+    {
+        "name": "Beta Mario",
+        "rarity": "Rare",
+        "power": 500,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_betamario.png"
+    },
+    {
+        "name": "Prequel I-HATE-YOU Luigi",
+        "rarity": "Epic",
+        "power": 748,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_prequelluigi.png"
+    },
+    {
+        "name": "Prequel I-HATE-YOU Mario",
+        "rarity": "Epic",
+        "power": 687,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_prequelmario.png"
+    },
+    {
+        "name": "I-HATE-YOU Luigi",
+        "rarity": "Epic",
+        "power": 734,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_IHATEYOU.png"
+    },
+    {
+        "name": "L is Real",
+        "rarity": "Legendary",
+        "power": 987,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_lisreal.png"
+    },
+    {
+        "name": "Wario Apparition",
+        "rarity": "Legendary",
+        "power": 903,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_apparition.png"
+    },
+    {
+        "name": "Turmoil",
+        "rarity": "Legendary",
+        "power": 940,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_turmoil.png"
+    },
+    {
+        "name": "The Forest King",
+        "rarity": "Legendary",
+        "power": 860,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_theforestking.png"
+    },
+    {
+        "name": "Secret Histories Mario",
+        "rarity": "Epic",
+        "power": 700,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_dictatormario.png"
+    },
+    {
+        "name": "Racist Mario",
+        "rarity": "Legendary",
+        "power": 804,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_racemario.png"
+    },
+    {
+        "name": "Devil Mario",
+        "rarity": "Legendary",
+        "power": 818,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_devilmario.png"
+    },
+    {
+        "name": "GB",
+        "rarity": "Epic",
+        "power": 605,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_gb.png"
+    },
+    {
+        "name": "GB (True Form)",
+        "rarity": "Legendary",
+        "power": 892,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_gbtrue.png"
+    },
+    {
+        "name": "Mr. Virtual",
+        "rarity": "Legendary",
+        "power": 843,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mrvirtual.png"
+    },
+    {
+        "name": "DJ Hallyboo",
+        "rarity": "Epic",
+        "power": 606,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_djhallyboo.png"
+    },
+    {
+        "name": "Mr. L",
+        "rarity": "Epic",
+        "power": 739,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mrl.png"
+    },
+    {
+        "name": "MX",
+        "rarity": "Legendary",
+        "power": 881,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mx.png"
+    },
+    {
+        "name": "Costume",
+        "rarity": "Legendary",
+        "power": 930,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_costume.png"
+    },
+    {
+        "name": "Ultra M",
+        "rarity": "Mythical",
+        "power": 1127,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ultram.png"
+    },
+    {
+        "name": "Omega",
+        "rarity": "Mythical",
+        "power": 1254,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_omega.png"
+    },
+    {
+        "name": "LG",
+        "rarity": "Epic",
+        "power": 730,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_lg.png"
+    },
+    {
+        "name": "W4R",
+        "rarity": "Epic",
+        "power": 603,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_w4r.png"
+    },
+    {
+        "name": "Y0SH",
+        "rarity": "Epic",
+        "power": 690,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_y0sh.png"
+    },
+    {
+        "name": "Ruth The Rabbit",
+        "rarity": "Event",
+        "power": 1320,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ruth.png"
+    },
+    {
+        "name": "Xenophanes (Phase 1)",
+        "rarity": "Rare",
+        "power": 411,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_xenop1.png"
+    },
+    {
+        "name": "Xenophanes (Phase 2)",
+        "rarity": "Epic",
+        "power": 683,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_xenop2.png"
+    },
+    {
+        "name": "Xenophanes (Phase 3)",
+        "rarity": "Legendary",
+        "power": 952,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_xenop3.png"
+    },
+    {
+        "name": "Soul Tails",
+        "rarity": "Epic",
+        "power": 645,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_soultails.png"
+    },
+    {
+        "name": "Soul Knuckles",
+        "rarity": "Epic",
+        "power": 650,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_soulknuckles.png"
+    },
+    {
+        "name": "Soul Eggman",
+        "rarity": "Epic",
+        "power": 797,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_souleggman.png"
+    },
+    {
+        "name": "Majin Sonic",
+        "rarity": "Legendary",
+        "power": 897,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_majinsonic.png"
+    },
+    {
+        "name": "Lord X",
+        "rarity": "Legendary",
+        "power": 861,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_lordx.png"
+    },
+    {
+        "name": "Pixel Xenophanes",
+        "rarity": "Mythical",
+        "power": 1018,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_pixelxeno.png"
+    },
+    {
+        "name": "Coldsteel",
+        "rarity": "Uncommon",
+        "power": 204,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_coldsteel.png"
+    },
+    {
+        "name": "Encore Sunshine BF",
+        "rarity": "Epic",
+        "power": 611,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_encorebf.png"
+    },
+    {
+        "name": "EXE",
+        "rarity": "Mythical",
+        "power": 1244,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_exe.png"
+    },
+    {
+        "name": "EXE (Faker Form)",
+        "rarity": "Legendary",
+        "power": 921,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_faker.png"
+    },
+    {
+        "name": "Fatal Error",
+        "rarity": "Mythical",
+        "power": 1184,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_fatalerror.png"
+    },
+    {
+        "name": "Fleetway Super Sonic",
+        "rarity": "Epic",
+        "power": 711,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_fleetway.png"
+    },
+    {
+        "name": "Furnace",
+        "rarity": "Legendary",
+        "power": 869,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_furnace.png"
+    },
+    {
+        "name": "Hog",
+        "rarity": "Legendary",
+        "power": 933,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_hog.png"
+    },
+    {
+        "name": "Needlem0use",
+        "rarity": "Mythical",
+        "power": 1125,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_needlem0use.png"
+    },
+    {
+        "name": "Needlem0use BF",
+        "rarity": "Epic",
+        "power": 745,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_needlem0usebf.png"
+    },
+    {
+        "name": "Needlem0use GF",
+        "rarity": "Epic",
+        "power": 765,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_needlem0usegf.png"
+    },
+    {
+        "name": "Requital",
+        "rarity": "Legendary",
+        "power": 887,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_requital.png"
+    },
+    {
+        "name": "Sanic.EXE",
+        "rarity": "Mythical",
+        "power": 1018,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sanicexe.png"
+    },
+    {
+        "name": "Sarah Henderson",
+        "rarity": "Mythical",
+        "power": 1123,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sarah.png"
+    },
+    {
+        "name": "Scorched",
+        "rarity": "Mythical",
+        "power": 1267,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_scorched.png"
+    },
+    {
+        "name": "SL4SH",
+        "rarity": "Legendary",
+        "power": 837,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sl4sh.png"
+    },
+    {
+        "name": "Tails Doll (Soulless)",
+        "rarity": "Epic",
+        "power": 739,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_soulless.png"
+    },
+    {
+        "name": "Starved Eggman",
+        "rarity": "Legendary",
+        "power": 811,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_starvedeggman.png"
+    },
+    {
+        "name": "Sunky",
+        "rarity": "Mythical",
+        "power": 1245,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sunky.png"
+    },
+    {
+        "name": "Tails Doll (Sunshine)",
+        "rarity": "Epic",
+        "power": 778,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sunshine.png"
+    },
+    {
+        "name": "Mouse.AVI (Wistfulness)",
+        "rarity": "Common",
+        "power": 57,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_wistfulnessmick.png"
+    },
+    {
+        "name": "Mouse.AVI (Dejection)",
+        "rarity": "Uncommon",
+        "power": 394,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_dejectionmick.png"
+    },
+    {
+        "name": "Mouse.AVI (Unknown Suffering) (1st Half)",
+        "rarity": "Rare",
+        "power": 508,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_usmick1.png"
+    },
+    {
+        "name": "Mouse.AVI (Unknown Suffering) (2nd Half)",
+        "rarity": "Epic",
+        "power": 770,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_usmick2.png"
+    },
+    {
+        "name": "Mouse.AVI (Sunsets)",
+        "rarity": "Legendary",
+        "power": 954,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sunsetsmick.png"
+    },
+    {
+        "name": "Avier (Phase 1)",
+        "rarity": "Common",
+        "power": 54,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_avierp1.png"
+    },
+    {
+        "name": "Avier (Phase 2)",
+        "rarity": "Uncommon",
+        "power": 296,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_avierp2.png"
+    },
+    {
+        "name": "Avier (Phase 3)",
+        "rarity": "Rare",
+        "power": 482,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_avierp3.png"
+    },
+    {
+        "name": "Avier (Phase 4)",
+        "rarity": "Legendary",
+        "power": 958,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_avierp4.png"
+    },
+    {
+        "name": "Minnie Mouse",
+        "rarity": "Uncommon",
+        "power": 396,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_aviminnie.png"
+    },
+    {
+        "name": "Mouse.AVI (Battered)",
+        "rarity": "Legendary",
+        "power": 951,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_batteredmick.png"
+    },
+    {
+        "name": "Crewmate Boyfriend",
+        "rarity": "Legendary",
+        "power": 939,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_crewmatebf.png"
+    },
+    {
+        "name": "Crewmate Girlfriend",
+        "rarity": "Legendary",
+        "power": 870,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_crewmategf.png"
+    },
+    {
+        "name": "Oswald (Phase 1) (D-side W.I)",
+        "rarity": "Rare",
+        "power": 538,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_dsideoswaldp1.png"
+    },
+    {
+        "name": "Oswald (Phase 2) (D-side W.I)",
+        "rarity": "Epic",
+        "power": 674,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_dsideoswaldp2.png"
+    },
+    {
+        "name": "Boyfriend (D-side W.I)",
+        "rarity": "Uncommon",
+        "power": 305,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_dsidewibf.png"
+    },
+    {
+        "name": "Evilrett (Disguised)",
+        "rarity": "Common",
+        "power": 178,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_evilrettdisguised.png"
+    },
+    {
+        "name": "Evilrett (Revealed)",
+        "rarity": "Epic",
+        "power": 787,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_evilrettrevealed.png"
+    },
+    {
+        "name": "Evilrett (True)",
+        "rarity": "Mythical",
+        "power": 1095,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_trueevilrett.png"
+    },
+    {
+        "name": "Girlfriend (W.I)",
+        "rarity": "Legendary",
+        "power": 941,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_girlfriendwi.png"
+    },
+    {
+        "name": "Hunter Goofy",
+        "rarity": "Epic",
+        "power": 602,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_huntergoofy.png"
+    },
+    {
+        "name": "Imposter Mickey",
+        "rarity": "Mythical",
+        "power": 1078,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_impostermick.png"
+    },
+    {
+        "name": "Julian (Puppet Mickey)",
+        "rarity": "Common",
+        "power": 182,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_julianwi.png"
+    },
+    {
+        "name": "Mouse.AVI (Leak Ma Balls)",
+        "rarity": "Legendary",
+        "power": 886,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_leakmaballs.png"
+    },
+    {
+        "name": "Mouse.AVI (Hellhole)",
+        "rarity": "Legendary",
+        "power": 885,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mickeyinhell.png"
+    },
+    {
+        "name": "Mouse.AVI (Versiculus Iratus)",
+        "rarity": "Epic",
+        "power": 781,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mickversiculus.png"
+    },
+    {
+        "name": "Miki (Phase 1)",
+        "rarity": "Common",
+        "power": 94,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mikip1.png"
+    },
+    {
+        "name": "Miki (Phase 2)",
+        "rarity": "Uncommon",
+        "power": 367,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mikip2.png"
+    },
+    {
+        "name": "Miki (Phase 3)",
+        "rarity": "Rare",
+        "power": 563,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mikip3.png"
+    },
+    {
+        "name": "Miki (Phase 4)",
+        "rarity": "Legendary",
+        "power": 865,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mikip4.png"
+    },
+    {
+        "name": "Mokey (W.I)",
+        "rarity": "Common",
+        "power": 70,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mokeywi.png"
+    },
+    {
+        "name": "Mr. Smiles",
+        "rarity": "Epic",
+        "power": 796,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mrsmiles.png"
+    },
+    {
+        "name": "Muckny.mp4",
+        "rarity": "Legendary",
+        "power": 899,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mucknymp4.png"
+    },
+    {
+        "name": "Ricky P. Rat",
+        "rarity": "Uncommon",
+        "power": 331,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_rickeyprat.png"
+    },
+    {
+        "name": "Satan (Phase 1) (Versiculus Iratus)",
+        "rarity": "Legendary",
+        "power": 890,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_satanp1.png"
+    },
+    {
+        "name": "Satan (Phase 2) (Versiculus Iratus)",
+        "rarity": "Mythical",
+        "power": 1298,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_satanp2.png"
+    },
+    {
+        "name": "Walt",
+        "rarity": "Legendary",
+        "power": 866,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_walt.png"
+    },
+    {
+        "name": "White Noise",
+        "rarity": "Rare",
+        "power": 466,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_whitenoise.png"
+    },
+    {
+        "name": "Boyfriend (W.I)",
+        "rarity": "Common",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_wibf.png"
+    },
+    {
+        "name": "Ascended Cartoon Bendy",
+        "rarity": "Epic",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ascendedtoon.png"
+    },
+    {
+        "name": "Cuphead",
+        "rarity": "Uncommon",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_cuphead.png"
+    },
+    {
+        "name": "Ink Bendy",
+        "rarity": "Epic",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_inkbendy.png"
+    },
+    {
+        "name": "Nightmare Bendy",
+        "rarity": "Nightmare",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_nightmarebendy.png"
+    },
+    {
+        "name": "Nightmare Cuphead",
+        "rarity": "Nightmare",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_nightmarecuphead.png"
+    },
+    {
+        "name": "Nightmare Sans",
+        "rarity": "Nightmare",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_nightmaresans.png"
+    },
+    {
+        "name": "Papyrus",
+        "rarity": "Rare",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_papyrus.png"
+    },
+    {
+        "name": "Sammy Lawrence",
+        "rarity": "Epic",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sammylawrence.png"
+    },
+    {
+        "name": "Sans",
+        "rarity": "Rare",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sans.png"
+    },
+    {
+        "name": "The Devil",
+        "rarity": "Epic",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_thedevil.png"
+    },
+    {
+        "name": "Cartoon Bendy",
+        "rarity": "Uncommon",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_toonbendy.png"
+    },
+    {
+        "name": "Anaya",
+        "rarity": "Common",
+        "power": 100,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_anaya.png"
+    },
+    {
+        "name": "Beni",
+        "rarity": "Epic",
+        "power": 100,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_beni.png"
+    },
+    {
+        "name": "Bidi",
+        "rarity": "Uncommon",
+        "power": 100,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_bidi.png"
+    },
+    {
+        "name": "Broken Bidi",
+        "rarity": "Epic",
+        "power": 139,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_brokenbidi.png"
+    },
+    {
+        "name": "Chibi Bidi",
+        "rarity": "Rare",
+        "power": 180,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_chibibidi.png"
+    },
+    {
+        "name": "Crazy Bidi",
+        "rarity": "Legendary",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_crazybidi.png"
+    },
+    {
+        "name": "Natsuki (After School)",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_afterschoolnatsuki.png"
+    },
+    {
+        "name": "Sayori (After School)",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_afterschoolsayori.png"
+    },
+    {
+        "name": "Yuri (After School)",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_afterschoolyuri.png"
+    },
+    {
+        "name": "Boyfriend (Blue Skies)",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_blueskiesbf.png"
+    },
+    {
+        "name": "Girlfriend (Blue Skies)",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_blueskiesgf.png"
+    },
+    {
+        "name": "Natsuki (Blue Skies)",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_blueskiesnatsuki.png"
+    },
+    {
+        "name": "Sayori (Blue Skies)",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_blueskiessayori.png"
+    },
+    {
+        "name": "Yuri (Blue Skies)",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_blueskiesyuri.png"
+    },
+    {
+        "name": "Monika (After School)",
+        "rarity": "Legendary",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_casualmonika.png"
+    },
+    {
+        "name": "Boyfriend (DDTO)",
+        "rarity": "Uncommon",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ddtobf.png"
+    },
+    {
+        "name": "Girlfriend (DDTO)",
+        "rarity": "Uncommon",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ddtogf.png"
+    },
+    {
+        "name": "Girlfriend (DDTO) (Playable)",
+        "rarity": "Uncommon",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ddtogfplay.png"
+    },
+    {
+        "name": "Pico (DDTO)",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ddtopico.png"
+    },
+    {
+        "name": "Skid & Pump (DDTO)",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_ddtosp.png"
+    },
+    {
+        "name": "Yuri (Markov)",
+        "rarity": "Event",
+        "power": 1800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_markov.gif"
+    },
+    {
+        "name": "Monika",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_monika.png"
+    },
+    {
+        "name": "Mr. Cow",
+        "rarity": "Mythical",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_mrcow.png"
+    },
+    {
+        "name": "Natsuki",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_natsuki.png"
+    },
+    {
+        "name": "Obsessed Yuri",
+        "rarity": "Epic",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_obsessedyuri.png"
+    },
+    {
+        "name": "Pixel Boyfriend (DDTO)",
+        "rarity": "Mythical",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_pixelbfddto.png"
+    },
+    {
+        "name": "Pixel Monika",
+        "rarity": "Mythical",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_pixelmonika.png"
+    },
+    {
+        "name": "Libitina",
+        "rarity": "Mythical",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_projectlibitina.png"
+    },
+    {
+        "name": "Sayori",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_sayori.png"
+    },
+    {
+        "name": "Monika (Epiphany)",
+        "rarity": "Mythical",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_yourreality.png"
+    },
+    {
+        "name": "Yuri",
+        "rarity": "Rare",
+        "power": 800,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_yuri.png"
+    },
+    {
+        "name": "MissingNo",
+        "rarity": "Event",
+        "power": 2080,
+        "image": "https://raw.githubusercontent.com/italiatroller-1990/CardBot-Assets/refs/heads/main/assets/funkydex_missingno.gif"
+    }
+]
